@@ -1,0 +1,18 @@
+{
+  "name": "discordjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "call-of-duty-api": "^1.2.16",
+    "discord.js": "^12.4.1",
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.6"
+  }
+}
